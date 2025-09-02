@@ -1,1 +1,12 @@
+Create a React.js frontend for the Social Media Application.
+Features:
+1. User registration and login pages (with JWT-based authentication).
+2. Feed page to display all posts from followed users.
+3. Ability to create new posts with text and images.
+4. Like and comment functionality for each post.
+5. Follow/unfollow button on user profiles.
+6. Real-time notifications using WebSocket (e.g., "User X liked your post").
+7. Use TailwindCSS for styling.
+8. Use Axios to connect with the Spring Boot backend REST APIs.
+Generate the full project structure and code.
 
