@@ -1,1 +1,13 @@
+Create a Spring Boot project for a Social Media Application. 
+Features should include:
+1. User authentication (sign up, login) using JWT.
+2. CRUD operations for posts (create, read, update, delete).
+3. Ability for users to like and comment on posts.
+4. Follow/unfollow functionality between users.
+5. REST APIs for all the above features.
+6. Use MongoDB for storing users, posts, comments, and relationships.
+7. Implement WebSocket for real-time notifications (like when a user comments or likes a post).
+8. Write clean code with layered architecture (Controller, Service, Repository).
+9. Add unit tests with JUnit and Mockito.
+Generate the full project structure and code.
 
